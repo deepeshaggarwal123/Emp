@@ -1,0 +1,6 @@
+.modal.d-block { overflow-y: auto; }
+.table-responsive { background: #fff; border-radius: .5rem; }
+.stat-card { border-left: 4px solid #0d6efd; }
+.toast-box { position: fixed; top: 70px; right: 12px; z-index: 2000; width: 320px; max-width: 90vw; }
+.navbar-brand { font-weight: 600; }
+canvas { max-height: 260px; }
